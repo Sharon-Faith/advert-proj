@@ -6,12 +6,12 @@ The notebook contains the analysis on a project whose main objectives were to id
 
 
 ## Running the apps
-*  Access the R notebook pdf in this repository
+*  Access the R markdown notebook pdf in [this repository](https://github.com/Sharon-Faith/advert-proj)
 
 
 ## Installation/ Set Up
 * Use a desktop or laptop, phone or tablet.
-* Access the R notebook pdf in this repository.
+* Access the R markdown notebook pdf in this repository.
 
 
 ## Technologies Used
